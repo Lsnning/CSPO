@@ -2,7 +2,7 @@
 This is the official repo for "CSPO: Enhancing Large Language Model Performance through Chain-Structured Prompt Optimization". CSPO is a novel method designed to systematically enhance the performance of large language models (LLMs) by gradually improving prompt structures.CSPO decomposes tasks into a series of ordered steps, or instruction chains, and employs an iterative optimization process akin to forward and backward propagation.
 
 <p align="center">
-<img src="./images/opt_process.jpg" alt="optimization process" title="The CSPO prompt optimization process is illustrated using the 'Antonym' task as an example."/>
+<img src="./opt_process.jpg" alt="optimization process" title="The CSPO prompt optimization process is illustrated using the 'Antonym' task as an example."/>
 </p>
 
 ## Quick Start
